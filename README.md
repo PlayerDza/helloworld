@@ -1,2 +1,6 @@
 # helloworld
-first repository
+```
+print('helloworld')
+print('goodbye')
+```
+
