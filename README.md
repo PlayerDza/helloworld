@@ -1,3 +1,2 @@
 # helloworld
-first repository\n
-hello!
+```print('helloworld')```
